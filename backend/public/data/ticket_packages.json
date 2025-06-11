@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "pass_4",
+      "name": "園區任玩套票",
+      "description": "4格任玩套票（即日有效）",
+      "type": "pass",
+      "price": 80,
+      "iconName": "card_membership",
+      "colorCode": "#43E97B",
+      "isActive": true
+    },
+    {
+      "id": "1747409244615",
+      "name": "Adult Day Pass",
+      "description": "",
+      "type": "Monthly",
+      "price": 150,
+      "iconName": "confirmation_num",
+      "colorCode": "#1976D2",
+      "isActive": true,
+      "createdAt": "2025-05-16T15:27:24.615Z"
+    }
+  ]
+}

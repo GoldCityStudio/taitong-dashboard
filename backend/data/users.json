@@ -1,0 +1,225 @@
+{
+  "caTMHRiMzcYmefjDrd19NTlRy2O2": {
+    "name": "Oliver",
+    "points": 0,
+    "isVIP": false,
+    "status": "standard",
+    "coupons": [],
+    "stickers": {
+      "strawberry": 1,
+      "grape": 1
+    },
+    "lastScans": {
+      "strawberry": "2025-05-08",
+      "grape": "2025-05-08"
+    }
+  },
+  "g0p6034iz7MNqPwY3pqaMa6WMdu2": {
+    "name": "Oli",
+    "points": 0,
+    "isVIP": false,
+    "status": "standard",
+    "coupons": [],
+    "stickers": {
+      "grape": 1,
+      "booth": 1,
+      "strawberry": 1
+    },
+    "lastScans": {
+      "grape": "2025-05-08",
+      "booth": "2025-05-08",
+      "strawberry": "2025-05-08"
+    }
+  },
+  "uvhbnTw9dtYLPs4G7YtqXc3GhZV2": {
+    "name": "Alex",
+    "points": 0,
+    "isVIP": false,
+    "status": "standard",
+    "coupons": [],
+    "stickers": {
+      "grass_ski": 1
+    },
+    "lastScans": {
+      "grass_ski": "2025-05-08"
+    }
+  },
+  "89RhufwV6yVOo9NMRALEL10zNO52": {
+    "name": "Alan",
+    "points": 20,
+    "isVIP": false,
+    "status": "standard",
+    "coupons": [
+      {
+        "id": "1",
+        "type": "family_bike",
+        "used": false
+      },
+      {
+        "id": "2",
+        "type": "family_bike",
+        "used": false
+      }
+    ],
+    "stickers": {
+      "grass_ski": 1,
+      "family_bike": 30
+    },
+    "lastScans": {
+      "grass_ski": "2025-05-09",
+      "family_bike": "2025-05-09"
+    }
+  },
+  "nP9Q7yxepNYR3Yck2flYAH1p1iH2": {
+    "name": "bb",
+    "points": 10,
+    "isVIP": false,
+    "status": "standard",
+    "coupons": [
+      {
+        "id": "1",
+        "type": "family_bike",
+        "used": false
+      }
+    ],
+    "stickers": {
+      "family_bike": 15
+    },
+    "lastScans": {
+      "family_bike": "2025-05-09"
+    }
+  },
+  "By29DzznO3QC94PP0LSwTq2IQT62": {
+    "name": "cece",
+    "points": 20,
+    "isVIP": false,
+    "status": "standard",
+    "coupons": [
+      {
+        "id": "1",
+        "type": "family_bike",
+        "used": false
+      },
+      {
+        "id": "2",
+        "type": "family_bike",
+        "used": false
+      }
+    ],
+    "stickers": {
+      "family_bike": 67
+    },
+    "lastScans": {
+      "family_bike": "2025-05-09"
+    }
+  },
+  "RkqqtNWRuRdi6DbYmV6ZaPSfmWr1": {
+    "name": "dd",
+    "points": 10,
+    "isVIP": false,
+    "status": "standard",
+    "coupons": [
+      {
+        "id": "1",
+        "type": "family_bike",
+        "used": false
+      }
+    ],
+    "stickers": {
+      "family_bike": 5
+    },
+    "lastScans": {}
+  },
+  "MVSOgrX7fZVmpWf3khm0uiSkwAI2": {
+    "name": "ER",
+    "points": 0,
+    "isVIP": false,
+    "status": "standard",
+    "coupons": [],
+    "stickers": {},
+    "lastScans": {}
+  },
+  "mcM2RedSbLS6mAprsh1NJ1b6OSC3": {
+    "name": "Fifi",
+    "points": 0,
+    "isVIP": false,
+    "status": "standard",
+    "coupons": [],
+    "stickers": {},
+    "lastScans": {}
+  },
+  "sNGQcfrB18dbxcHKz8uobzat3Fq2": {
+    "name": "Gee",
+    "points": 10,
+    "isVIP": false,
+    "status": "standard",
+    "coupons": [
+      {
+        "id": "1",
+        "type": "discount_5",
+        "used": false
+      }
+    ],
+    "stickers": {
+      "feed_animals": 6
+    },
+    "lastScans": {}
+  },
+  "3uamQivI0IMZPJH1ZA3J36TwMv52": {
+    "name": "I",
+    "points": 0,
+    "isVIP": false,
+    "status": "standard",
+    "coupons": [],
+    "stickers": {},
+    "lastScans": {}
+  },
+  "dGuc4bynawSmO2A5306vCWngRI22": {
+    "name": "zee",
+    "points": 10,
+    "isVIP": false,
+    "status": "standard",
+    "coupons": [
+      {
+        "id": "1",
+        "type": "discount_5",
+        "used": false
+      }
+    ],
+    "stickers": {
+      "feed_animals": 7,
+      "family_bike": 5
+    },
+    "lastScans": {}
+  },
+  "hoIHmv5eoMOdHBrzWdssPn3aZSl2": {
+    "name": "BEE",
+    "email": "b@b.com",
+    "points": 0,
+    "isVIP": false,
+    "status": "standard",
+    "coupons": [],
+    "stickers": {},
+    "lastScans": {},
+    "referralCount": 0
+  },
+  "cmdeS0CmNTa1k1ax2cTiDK8sfOY2": {
+    "name": "Test User",
+    "email": "test@example.com",
+    "points": 10,
+    "isVIP": false,
+    "status": "standard",
+    "coupons": [
+      {
+        "id": "1",
+        "type": "discount_5",
+        "used": false
+      }
+    ],
+    "stickers": {
+      "feed_animals": 5
+    },
+    "lastScans": {},
+    "referralCount": 0
+  }
+}
