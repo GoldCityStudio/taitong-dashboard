@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "園區活動",
+    "imageUrl": "assets/images/highlights/activities.jpg",
+    "description": "各種精彩活動等你參加！",
+    "linkUrl": "/activities",
+    "order": 1
+  },
+  {
+    "id": 2,
+    "title": "動物村",
+    "imageUrl": "assets/images/highlights/animal_village.jpg",
+    "description": "可愛動物等你來互動！",
+    "linkUrl": "/animal-village",
+    "order": 2
+  },
+  {
+    "id": 3,
+    "title": "DIY工作坊",
+    "imageUrl": "assets/images/highlights/workshop.jpg",
+    "description": "動手做屬於你的作品！",
+    "linkUrl": "/workshop",
+    "order": 3
+  },
+  {
+    "id": 4,
+    "title": "水果園",
+    "imageUrl": "assets/images/highlights/fruit_garden.jpg",
+    "description": "新鮮水果任你採摘！",
+    "linkUrl": "/fruit-garden",
+    "order": 4
+  },
+  {
+    "id": 5,
+    "title": "堂人街餐館",
+    "imageUrl": "assets/images/highlights/restaurant.jpg",
+    "description": "品嚐地道美食！",
+    "linkUrl": "/restaurant",
+    "order": 5
+  },
+  {
+    "id": 6,
+    "title": "碼頭燒烤",
+    "imageUrl": "assets/images/highlights/bbq_dock.jpg",
+    "description": "享受戶外燒烤樂趣！",
+    "linkUrl": "/bbq-dock",
+    "order": 6
+  }
+] 

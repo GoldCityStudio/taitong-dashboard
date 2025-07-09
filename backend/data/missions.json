@@ -1,0 +1,14 @@
+[
+  { "type": "family_bike", "name": "大家庭單車", "location": "單車區", "icon": "directions_bike", "color": "blue", "passCost": 3, "category": "親子活動" },
+  { "type": "indoor_play", "name": "充氣彈彈床", "location": "彈床區", "icon": "sports_handball", "color": "deepOrange", "passCost": 3, "category": "親子活動" },
+  { "type": "kids_car", "name": "兒童遊戲車", "location": "兒童區", "icon": "toys", "color": "purple", "passCost": 2, "category": "親子活動" },
+  { "type": "fishing_game", "name": "撈撈樂", "location": "遊戲區", "icon": "pool", "color": "cyan", "passCost": 2, "category": "休閒娛樂" },
+  { "type": "feed_animals", "name": "飼料餵飼動物", "location": "動物區", "icon": "pets", "color": "brown", "passCost": 1, "category": "生態探索" },
+  { "type": "feed_fish", "name": "魚糧餵飼錦鯉魚", "location": "魚池區", "icon": "set_meal", "color": "teal", "passCost": 1, "category": "生態探索" },
+  { "type": "diy_2", "name": "DIY手工藝製作（2格）", "location": "DIY區", "icon": "brush", "color": "pink", "passCost": 2, "category": "文化體驗" },
+  { "type": "diy_3", "name": "DIY手工藝製作（3格）", "location": "DIY區", "icon": "brush", "color": "pink.shade200", "passCost": 3, "category": "文化體驗" },
+  { "type": "diy_4", "name": "DIY手工藝製作（4格）", "location": "DIY區", "icon": "brush", "color": "pink.shade400", "passCost": 4, "category": "文化體驗" },
+  { "type": "grass_ski", "name": "滑草", "location": "滑草區", "icon": "terrain", "color": "green", "passCost": 2, "category": "休閒娛樂" },
+  { "type": "vege_1", "name": "換取本地蔬菜/芽菜/粟米（1格）", "location": "農田區", "icon": "eco", "color": "lightGreen", "passCost": 1, "category": "生態探索" },
+  { "type": "vege_2", "name": "換取酸蘿蔔或木瓜（2格）", "location": "農田區", "icon": "eco", "color": "green.shade900", "passCost": 2, "category": "生態探索" }
+] 
